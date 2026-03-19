@@ -9,9 +9,6 @@
 - Champignon
 - Onion
 
-# error in te tetx
-- pleas fxi me
-
 # viennese
 
 - french fries
