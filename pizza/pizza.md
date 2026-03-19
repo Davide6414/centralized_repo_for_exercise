@@ -4,8 +4,11 @@
 # ingredients
 
 - flour
-- water
-- salt
+- water - 2db
+- salt -1 teaspoon
+- Champignon
+- Onion
+# 
 
 # viennese
 
@@ -13,3 +16,4 @@
 - mozzarella cheese
 - Wurstel
 - tomato sauce
+Should be 15 minutes in the oven 
