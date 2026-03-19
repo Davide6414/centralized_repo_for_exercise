@@ -13,6 +13,5 @@
 
 - french fries
 - mozzarella cheese
-- Wurstel
 - tomato sauce
 Should be 15 minutes in the oven 
